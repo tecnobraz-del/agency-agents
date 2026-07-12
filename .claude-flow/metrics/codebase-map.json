@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-07-12T21:11:28.763Z",
+  "projectRoot": "/home/user/agency-agents",
+  "structure": {
+    "hasPackageJson": false,
+    "hasTsConfig": false,
+    "hasClaudeConfig": true,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1783890688763
+}
