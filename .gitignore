@@ -80,3 +80,7 @@ integrations/kimi/*/
 !integrations/openclaw/README.md
 !integrations/kimi/README.md
 integrations/codex/agents/*
+
+# Ruflo runtime databases (regenerated via `ruflo memory init`)
+.claude/memory.db
+.swarm/
