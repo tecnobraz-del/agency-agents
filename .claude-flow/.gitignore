@@ -7,3 +7,5 @@ neural/
 *.tmp
 daemon-state.json
 metrics/
+daemon.pid
+*.pid
